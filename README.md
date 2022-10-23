@@ -5,10 +5,10 @@ A game about sheep using typescript and React. This is a demo design of the game
 Move your sheep through a series of improved pastures. Pay the costs of raising sheep for market. Make money from selling wool and use it to improve pasture.
 
 ## Game Cycle
-The result of two rolled dice is added and the player is advanced to the corresponding next event. Each mod 43 there is a Wool Sale. 
+The result of two rolled dice is added and the player is advanced to the corresponding next event. Each mod 43 there is a Wool Sale. The events are various functions affecting the yields at Stock Sales or Wool Sales. Some game tokens and some game obligations will be handled with NFTs. There are asset NFTs and liability NFTs. 
 
 ## NFTs
-The NFTs will be burned when used, or when a Stud Ram dies. The NFTs are obtained for a fee, and are often optional. There are asset NFTs and liability NFTs. Holding some will help you, and you burn them when you use them. Others are obligations you have to meet, and you are required to burn them, generally at Wool Sale, incurring some owed deficit defined by the NFT.
+The NFTs will be burned when used, or when a Stud Ram dies. The NFTs are obtained for a fee, and are often optional.  Others are obligations you have to meet, and you are required to burn them, generally at Wool Sale, incurring some owed deficit defined by the NFT. Holding some will help you, holding others may mean a penalty, but you burn them when you use them.
 
 ### Asset NFTs
 
