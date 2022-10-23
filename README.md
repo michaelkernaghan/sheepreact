@@ -1,5 +1,6 @@
 # sheepreact
 A game about sheep using typescript and React. This is a demo design of the game mechanics in anticipation of implementation in Tezos.
+Built following instructions at https://www.section.io/engineering-education/building-a-react-app-with-typescript/
 
 ## Paddock Improvement
 Move your sheep through a series of improved pastures. Pay the costs of raising sheep for market. Make money from selling wool and use it to improve pasture.
