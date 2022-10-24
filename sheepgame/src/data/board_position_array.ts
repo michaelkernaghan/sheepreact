@@ -32,7 +32,7 @@ export const board_position_array = [
    'Stud Ram - Winton Boy II',
    'Tucker Bag',
    'Stock Sale',
-   'Stud Ram Dries',
+   'Stud Ram Dies',
    'Pay Water Drilling Expenses',
    'Tucker Bag',
    'Stock Sale',

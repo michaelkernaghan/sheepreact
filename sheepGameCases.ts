@@ -1,5 +1,5 @@
 let position: number = 0
-let farmEvent
+
 switch (position) {
     case 0: {
         woolSale()
@@ -184,7 +184,7 @@ switch (position) {
     }
 }
 
-
+}
 
 function woolSale() {
     throw new Error("Function not implemented.");

@@ -1,0 +1,20 @@
+type paddock = {
+    id = int;
+    sheep = int,
+    cost = mutez,
+    limit = int,
+    drought = bool,
+    level = int,
+    required = level,
+    mortgage = mutez,
+  };
+
+  type storage = paddock;
+
+  type haystack = {
+
+  }
+
+  type studRam = {
+     
+  }
