@@ -15,7 +15,7 @@ export const board_position_array = [
    'Jet Sheep Against Fly Strike',
    'Poison and Fumigate Rabbits',
    'Stock Sale',
-   'Footrot Treatment',
+   'Foot Rot Treatment',
    'Stock Sale',
    'Stud Ram - Laclan Lad',
    'Tucker Bag',
